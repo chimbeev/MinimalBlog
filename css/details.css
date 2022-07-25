@@ -136,7 +136,7 @@
     font-size: 18px;
     line-height: 22px;
     /*position: absolute;*/
-    margin-top: 19px;
+    margin-top: 32px;
     color: #2D3748;
 }
 
@@ -149,6 +149,7 @@
     line-height: 22px;
     margin-left: 197px;
     margin-top: -40px;
+    margin-bottom: 34px;
 
 }
 .body__main__line {
@@ -222,7 +223,7 @@
 .content {
     padding: 0px;
     min-height: auto;
-    margin: 0 auto -50px;
+    margin: 0 auto -17px;
 
 }
 
@@ -273,7 +274,7 @@
 }
 
 .footer__menu__li:nth-child(2) {
-    margin-left: 497px;
+    margin-left: 490px;
 }
 
 .footer__menu__li:nth-child(3) {
@@ -492,10 +493,10 @@
 }
 
 .body__button {
-    width: 29px;
-    height: 29px;
+    width: 40px;
+    height: 42px;
     position: absolute;
-    left: 577px;
+    left: 578px;
     bottom: 22px;
     background: white;
     border-radius: 23px;
@@ -509,10 +510,10 @@
 
 .body__button__img {
     position: absolute;
-    left: -18%;
+    left: -11%;
     right: 5.8%;
     top: auto;
-    bottom: -16.6%;
+    bottom: -4.6%;
 }
 
 .content {
@@ -569,7 +570,7 @@
 }
 
 .footer__menu__li:nth-child(2) {
-    margin-left: 330px;
+    margin-left: 320px;
 }
 
 .footer__menu__li:nth-child(3) {
